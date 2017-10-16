@@ -63,17 +63,17 @@ public class Bonzee {
 
     }
 
-    private Boolean forwardAttac(){
-        return null;
-    }
-
-    private Boolean backwardAttac(){
-        return null;
-    }
-
-    private void defense(){
-
-    }
+//    private Boolean forwardAttac(){
+//        return null;
+//    }
+//
+//    private Boolean backwardAttac(){
+//        return null;
+//    }
+//
+//    private void defense(){
+//
+//    }
 
 
 
